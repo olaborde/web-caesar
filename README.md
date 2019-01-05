@@ -11,4 +11,3 @@ source flask-env/bin/activate
 ````
 python main.py
 
-```
