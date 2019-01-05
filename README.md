@@ -6,8 +6,9 @@
 * To run: activate the virtual the environment with the command:
 ```
 source flask-env/bin/activate
-`````
+```
 * Then type:
-````
-python main.py
 
+```
+python main.py
+```
